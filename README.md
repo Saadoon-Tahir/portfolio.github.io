@@ -1,5 +1,8 @@
 # Data Scientist
 
+### Technical Skills
+Python, SQL, AWS, Snowflake, MATLAB
+
 ## Projects
 **1. Customer Churn Prediction with Explainable AI (XAI)**
 
